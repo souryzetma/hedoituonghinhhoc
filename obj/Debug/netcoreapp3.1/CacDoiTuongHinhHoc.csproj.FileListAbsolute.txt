@@ -1,0 +1,13 @@
+D:\baitap\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.exe
+D:\baitap\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.deps.json
+D:\baitap\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.runtimeconfig.json
+D:\baitap\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.runtimeconfig.dev.json
+D:\baitap\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.dll
+D:\baitap\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.pdb
+D:\baitap\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.csprojAssemblyReference.cache
+D:\baitap\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.AssemblyInfoInputs.cache
+D:\baitap\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.AssemblyInfo.cs
+D:\baitap\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.csproj.CoreCompileInputs.cache
+D:\baitap\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.dll
+D:\baitap\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.pdb
+D:\baitap\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.genruntimeconfig.cache
